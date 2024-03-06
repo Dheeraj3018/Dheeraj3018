@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ⚡I'm currently looking for an opportunity to work in Tech Industry where I can showcase my skills and contribute for the companies growth.
-🔭 I’m currently working on an Chat App in mern stack
-🌱 I’m currently learning Next.js
-📫 How to reach me: vsdheeraj17@gmail.com
+🔭 I’m currently working on an Chat App in mern stack.
+🌱 I’m currently learning Next.js.
+📫 How to reach me: vsdheeraj17@gmail.com.
 💬 Ask me about MERN stack.
 
 
