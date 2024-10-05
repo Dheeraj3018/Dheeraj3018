@@ -6,7 +6,7 @@
 ### ⚡I'm currently looking for an career opportunity to work in Tech Industry where I can showcase my skills and contribute in Valuable Projects.
 ### 👯 I'm seeking for Referrals. 
 ### 🔭 I’m currently working on an Chat App in mern stack.
-### 🌱 I’m currently learning Next.js.
+
 ### 📫 How to reach me: vsdheeraj17@gmail.com.
 ### 💬 Ask me about MERN stack.
 
